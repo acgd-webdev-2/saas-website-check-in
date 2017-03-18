@@ -4,7 +4,7 @@ time: '5 minutes'
 deliverables: 'Working website'
 ---
 
-# SAAS website check-in
+# SaaS website check-in
 
 ## Overview
 
